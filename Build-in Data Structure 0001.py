@@ -1,5 +1,6 @@
 ﻿# Build-in Data Structure
 
+# This is where the branch start from!
 num_list = [6,2,7,4,1,3,5,6]
 print (sorted(num_list))
 
